@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elena</h1>
 <h3 align="center">A backend python student from Russia</h3>
 
-- 🌱 I’m currently learning **Django Framework, DRF, Telegram Bot API**
+- 🌱 I’m currently learning **Django Framework, DRF, Telegram Bot API, Flask, FastAPI**
 
 - 📫 How to reach me **shovtyuk.elena@yandex.ru, paradox7891@gmail.com**
 
